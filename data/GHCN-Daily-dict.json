@@ -1,0 +1,2177 @@
+[
+    {
+        "Weather on January 01, 2023": "Weather on January 01, 2023 - {'min temp': '-2.2 degrees Celsius', 'max temp': '4.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 02, 2023": "Weather on January 02, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '-0.6 degrees Celsius', 'rain': '2.8 mm', 'snowfall': '23.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on January 03, 2023": "Weather on January 03, 2023 - {'min temp': '-8.9 degrees Celsius', 'max temp': '-3.3 degrees Celsius', 'rain': '1.5 mm', 'snowfall': '18.0 mm'}"
+    },
+    {
+        "Weather on January 04, 2023": "Weather on January 04, 2023 - {'min temp': '-10.6 degrees Celsius', 'max temp': '2.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 05, 2023": "Weather on January 05, 2023 - {'min temp': '-10.6 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 06, 2023": "Weather on January 06, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 07, 2023": "Weather on January 07, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '7.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 08, 2023": "Weather on January 08, 2023 - {'min temp': '-6.1 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 09, 2023": "Weather on January 09, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 10, 2023": "Weather on January 10, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 11, 2023": "Weather on January 11, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 12, 2023": "Weather on January 12, 2023 - {'min temp': '-5.6 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 13, 2023": "Weather on January 13, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 14, 2023": "Weather on January 14, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 15, 2023": "Weather on January 15, 2023 - {'min temp': '0.6 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 16, 2023": "Weather on January 16, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 17, 2023": "Weather on January 17, 2023 - {'min temp': '-5.6 degrees Celsius', 'max temp': '6.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 18, 2023": "Weather on January 18, 2023 - {'min temp': '-5.6 degrees Celsius', 'max temp': '-0.6 degrees Celsius', 'rain': '14.7 mm', 'snowfall': '147.0 mm'}"
+    },
+    {
+        "Weather on January 19, 2023": "Weather on January 19, 2023 - {'min temp': '-7.8 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 20, 2023": "Weather on January 20, 2023 - {'min temp': '-7.8 degrees Celsius', 'max temp': '0.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 21, 2023": "Weather on January 21, 2023 - {'min temp': '-10.6 degrees Celsius', 'max temp': '0.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 22, 2023": "Weather on January 22, 2023 - {'min temp': '-8.9 degrees Celsius', 'max temp': '4.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 23, 2023": "Weather on January 23, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '1.1 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '5.0 mm'}"
+    },
+    {
+        "Weather on January 24, 2023": "Weather on January 24, 2023 - {'min temp': '-8.9 degrees Celsius', 'max temp': '1.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 25, 2023": "Weather on January 25, 2023 - {'min temp': '-8.9 degrees Celsius', 'max temp': '0.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 26, 2023": "Weather on January 26, 2023 - {'min temp': '-10.0 degrees Celsius', 'max temp': '4.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 27, 2023": "Weather on January 27, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 28, 2023": "Weather on January 28, 2023 - {'min temp': '-6.1 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 29, 2023": "Weather on January 29, 2023 - {'min temp': '-17.2 degrees Celsius', 'max temp': '-3.9 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '28.0 mm'}"
+    },
+    {
+        "Weather on January 30, 2023": "Weather on January 30, 2023 - {'min temp': '-21.7 degrees Celsius', 'max temp': '-12.8 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '13.0 mm'}"
+    },
+    {
+        "Weather on January 31, 2023": "Weather on January 31, 2023 - {'min temp': '-20.0 degrees Celsius', 'max temp': '-1.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '3.0 mm'}"
+    },
+    {
+        "Weather on February 01, 2023": "Weather on February 01, 2023 - {'min temp': '-13.3 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 02, 2023": "Weather on February 02, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 03, 2023": "Weather on February 03, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 04, 2023": "Weather on February 04, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 05, 2023": "Weather on February 05, 2023 - {'min temp': '-2.8 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 06, 2023": "Weather on February 06, 2023 - {'min temp': '-2.2 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 07, 2023": "Weather on February 07, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 08, 2023": "Weather on February 08, 2023 - {'min temp': '-6.7 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 09, 2023": "Weather on February 09, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 10, 2023": "Weather on February 10, 2023 - {'min temp': '-12.2 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 11, 2023": "Weather on February 11, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 12, 2023": "Weather on February 12, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 13, 2023": "Weather on February 13, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 14, 2023": "Weather on February 14, 2023 - {'min temp': '0.6 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 15, 2023": "Weather on February 15, 2023 - {'min temp': '-10.6 degrees Celsius', 'max temp': '0.6 degrees Celsius', 'rain': '7.1 mm', 'snowfall': '231.0 mm'}"
+    },
+    {
+        "Weather on February 16, 2023": "Weather on February 16, 2023 - {'min temp': '-16.7 degrees Celsius', 'max temp': '-0.6 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '38.0 mm'}"
+    },
+    {
+        "Weather on February 17, 2023": "Weather on February 17, 2023 - {'min temp': '-11.7 degrees Celsius', 'max temp': '12.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 18, 2023": "Weather on February 18, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 19, 2023": "Weather on February 19, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 20, 2023": "Weather on February 20, 2023 - {'min temp': '-0.6 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 21, 2023": "Weather on February 21, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 22, 2023": "Weather on February 22, 2023 - {'min temp': '-16.7 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '13.0 mm', 'snowfall': '155.0 mm'}"
+    },
+    {
+        "Weather on February 23, 2023": "Weather on February 23, 2023 - {'min temp': '-25.0 degrees Celsius', 'max temp': '-12.8 degrees Celsius', 'rain': '1.3 mm', 'snowfall': '15.0 mm'}"
+    },
+    {
+        "Weather on February 24, 2023": "Weather on February 24, 2023 - {'min temp': '-20.6 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 25, 2023": "Weather on February 25, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 26, 2023": "Weather on February 26, 2023 - {'min temp': '-2.8 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 27, 2023": "Weather on February 27, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 28, 2023": "Weather on February 28, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 01, 2023": "Weather on March 01, 2023 - {'min temp': '-6.7 degrees Celsius', 'max temp': '2.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 02, 2023": "Weather on March 02, 2023 - {'min temp': '-9.4 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '13.0 mm'}"
+    },
+    {
+        "Weather on March 03, 2023": "Weather on March 03, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 04, 2023": "Weather on March 04, 2023 - {'min temp': '-6.1 degrees Celsius', 'max temp': '3.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on March 05, 2023": "Weather on March 05, 2023 - {'min temp': '-6.7 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 06, 2023": "Weather on March 06, 2023 - {'min temp': '-6.7 degrees Celsius', 'max temp': '7.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 07, 2023": "Weather on March 07, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 08, 2023": "Weather on March 08, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '2.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 09, 2023": "Weather on March 09, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '5.0 mm'}"
+    },
+    {
+        "Weather on March 10, 2023": "Weather on March 10, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 11, 2023": "Weather on March 11, 2023 - {'min temp': '2.2 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 12, 2023": "Weather on March 12, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 13, 2023": "Weather on March 13, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 14, 2023": "Weather on March 14, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 15, 2023": "Weather on March 15, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 16, 2023": "Weather on March 16, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '3.6 mm', 'snowfall': '13.0 mm'}"
+    },
+    {
+        "Weather on March 17, 2023": "Weather on March 17, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '5.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 18, 2023": "Weather on March 18, 2023 - {'min temp': '-10.6 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 19, 2023": "Weather on March 19, 2023 - {'min temp': '-8.9 degrees Celsius', 'max temp': '12.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 20, 2023": "Weather on March 20, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 21, 2023": "Weather on March 21, 2023 - {'min temp': '-2.8 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 22, 2023": "Weather on March 22, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '5.0 mm'}"
+    },
+    {
+        "Weather on March 23, 2023": "Weather on March 23, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 24, 2023": "Weather on March 24, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '12.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 25, 2023": "Weather on March 25, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '8.0 mm'}"
+    },
+    {
+        "Weather on March 26, 2023": "Weather on March 26, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '4.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 27, 2023": "Weather on March 27, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '1.7 degrees Celsius', 'rain': '4.6 mm', 'snowfall': '66.0 mm'}"
+    },
+    {
+        "Weather on March 28, 2023": "Weather on March 28, 2023 - {'min temp': '-10.0 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 29, 2023": "Weather on March 29, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 30, 2023": "Weather on March 30, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on March 31, 2023": "Weather on March 31, 2023 - {'min temp': '0.6 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 01, 2023": "Weather on April 01, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 02, 2023": "Weather on April 02, 2023 - {'min temp': '6.7 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 03, 2023": "Weather on April 03, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 04, 2023": "Weather on April 04, 2023 - {'min temp': '-5.6 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '8.4 mm', 'snowfall': '117.0 mm'}"
+    },
+    {
+        "Weather on April 05, 2023": "Weather on April 05, 2023 - {'min temp': '-13.3 degrees Celsius', 'max temp': '5.6 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '36.0 mm'}"
+    },
+    {
+        "Weather on April 06, 2023": "Weather on April 06, 2023 - {'min temp': '-6.1 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 07, 2023": "Weather on April 07, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 08, 2023": "Weather on April 08, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 09, 2023": "Weather on April 09, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 10, 2023": "Weather on April 10, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 11, 2023": "Weather on April 11, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 12, 2023": "Weather on April 12, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 13, 2023": "Weather on April 13, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 14, 2023": "Weather on April 14, 2023 - {'min temp': '0.6 degrees Celsius', 'max temp': '17.8 degrees Celsius', 'rain': '6.6 mm', 'snowfall': '5.0 mm'}"
+    },
+    {
+        "Weather on April 15, 2023": "Weather on April 15, 2023 - {'min temp': '-2.2 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '8.0 mm'}"
+    },
+    {
+        "Weather on April 16, 2023": "Weather on April 16, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 17, 2023": "Weather on April 17, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 18, 2023": "Weather on April 18, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 19, 2023": "Weather on April 19, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 20, 2023": "Weather on April 20, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 21, 2023": "Weather on April 21, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 22, 2023": "Weather on April 22, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '7.2 degrees Celsius', 'rain': '9.7 mm', 'snowfall': '86.0 mm'}"
+    },
+    {
+        "Weather on April 23, 2023": "Weather on April 23, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 24, 2023": "Weather on April 24, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 25, 2023": "Weather on April 25, 2023 - {'min temp': '2.2 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '1.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on April 26, 2023": "Weather on April 26, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '22.9 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 27, 2023": "Weather on April 27, 2023 - {'min temp': '4.4 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 28, 2023": "Weather on April 28, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '4.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 29, 2023": "Weather on April 29, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 30, 2023": "Weather on April 30, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 01, 2023": "Weather on May 01, 2023 - {'min temp': '2.2 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 02, 2023": "Weather on May 02, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 03, 2023": "Weather on May 03, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 04, 2023": "Weather on May 04, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 05, 2023": "Weather on May 05, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '23.3 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 06, 2023": "Weather on May 06, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 07, 2023": "Weather on May 07, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 08, 2023": "Weather on May 08, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 09, 2023": "Weather on May 09, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 10, 2023": "Weather on May 10, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 11, 2023": "Weather on May 11, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '32.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 12, 2023": "Weather on May 12, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '23.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 13, 2023": "Weather on May 13, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 14, 2023": "Weather on May 14, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '23.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 15, 2023": "Weather on May 15, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '29.7 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 16, 2023": "Weather on May 16, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 17, 2023": "Weather on May 17, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 18, 2023": "Weather on May 18, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '20.0 degrees Celsius', 'rain': '3.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 19, 2023": "Weather on May 19, 2023 - {'min temp': '8.9 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '8.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 20, 2023": "Weather on May 20, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 21, 2023": "Weather on May 21, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 22, 2023": "Weather on May 22, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 23, 2023": "Weather on May 23, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 24, 2023": "Weather on May 24, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '5.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 25, 2023": "Weather on May 25, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 26, 2023": "Weather on May 26, 2023 - {'min temp': '8.9 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '2.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 27, 2023": "Weather on May 27, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 28, 2023": "Weather on May 28, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 29, 2023": "Weather on May 29, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 30, 2023": "Weather on May 30, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 31, 2023": "Weather on May 31, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 01, 2023": "Weather on June 01, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 02, 2023": "Weather on June 02, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '12.7 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 03, 2023": "Weather on June 03, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '4.1 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 04, 2023": "Weather on June 04, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '20.1 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 05, 2023": "Weather on June 05, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 06, 2023": "Weather on June 06, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 07, 2023": "Weather on June 07, 2023 - {'min temp': '8.9 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 08, 2023": "Weather on June 08, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 09, 2023": "Weather on June 09, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 10, 2023": "Weather on June 10, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 11, 2023": "Weather on June 11, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 12, 2023": "Weather on June 12, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '31.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 13, 2023": "Weather on June 13, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '2.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 14, 2023": "Weather on June 14, 2023 - {'min temp': '6.7 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 15, 2023": "Weather on June 15, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 16, 2023": "Weather on June 16, 2023 - {'min temp': '6.7 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '22.6 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 17, 2023": "Weather on June 17, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 18, 2023": "Weather on June 18, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 19, 2023": "Weather on June 19, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 20, 2023": "Weather on June 20, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 21, 2023": "Weather on June 21, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '3.6 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 22, 2023": "Weather on June 22, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '13.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 23, 2023": "Weather on June 23, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 24, 2023": "Weather on June 24, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 25, 2023": "Weather on June 25, 2023 - {'min temp': '8.9 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 26, 2023": "Weather on June 26, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 27, 2023": "Weather on June 27, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 28, 2023": "Weather on June 28, 2023 - {'min temp': '16.7 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 29, 2023": "Weather on June 29, 2023 - {'min temp': '15.0 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 30, 2023": "Weather on June 30, 2023 - {'min temp': '9.4 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '1.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 01, 2023": "Weather on July 01, 2023 - {'min temp': '8.9 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 02, 2023": "Weather on July 02, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 03, 2023": "Weather on July 03, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 04, 2023": "Weather on July 04, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 05, 2023": "Weather on July 05, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '15.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 06, 2023": "Weather on July 06, 2023 - {'min temp': '13.3 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 07, 2023": "Weather on July 07, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 08, 2023": "Weather on July 08, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 09, 2023": "Weather on July 09, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '26.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 10, 2023": "Weather on July 10, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 11, 2023": "Weather on July 11, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 12, 2023": "Weather on July 12, 2023 - {'min temp': '15.0 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 13, 2023": "Weather on July 13, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '33.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 14, 2023": "Weather on July 14, 2023 - {'min temp': '16.1 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 15, 2023": "Weather on July 15, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 16, 2023": "Weather on July 16, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 17, 2023": "Weather on July 17, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 18, 2023": "Weather on July 18, 2023 - {'min temp': '16.7 degrees Celsius', 'max temp': '34.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 19, 2023": "Weather on July 19, 2023 - {'min temp': '20.0 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 20, 2023": "Weather on July 20, 2023 - {'min temp': '15.0 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '10.2 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 21, 2023": "Weather on July 21, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 22, 2023": "Weather on July 22, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '2.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 23, 2023": "Weather on July 23, 2023 - {'min temp': '13.3 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 24, 2023": "Weather on July 24, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 25, 2023": "Weather on July 25, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '36.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 26, 2023": "Weather on July 26, 2023 - {'min temp': '19.4 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 27, 2023": "Weather on July 27, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 28, 2023": "Weather on July 28, 2023 - {'min temp': '15.0 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 29, 2023": "Weather on July 29, 2023 - {'min temp': '13.3 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 30, 2023": "Weather on July 30, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '34.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 31, 2023": "Weather on July 31, 2023 - {'min temp': '18.3 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 01, 2023": "Weather on August 01, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '15.2 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 02, 2023": "Weather on August 02, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '4.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 03, 2023": "Weather on August 03, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 04, 2023": "Weather on August 04, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 05, 2023": "Weather on August 05, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 06, 2023": "Weather on August 06, 2023 - {'min temp': '13.9 degrees Celsius', 'max temp': '23.3 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 07, 2023": "Weather on August 07, 2023 - {'min temp': '9.4 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 08, 2023": "Weather on August 08, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 09, 2023": "Weather on August 09, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 10, 2023": "Weather on August 10, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 11, 2023": "Weather on August 11, 2023 - {'min temp': '17.8 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 12, 2023": "Weather on August 12, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 13, 2023": "Weather on August 13, 2023 - {'min temp': '16.7 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 14, 2023": "Weather on August 14, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 15, 2023": "Weather on August 15, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 16, 2023": "Weather on August 16, 2023 - {'min temp': '15.0 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 17, 2023": "Weather on August 17, 2023 - {'min temp': '16.7 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 18, 2023": "Weather on August 18, 2023 - {'min temp': '16.1 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 19, 2023": "Weather on August 19, 2023 - {'min temp': '18.9 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 20, 2023": "Weather on August 20, 2023 - {'min temp': '13.9 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 21, 2023": "Weather on August 21, 2023 - {'min temp': '13.9 degrees Celsius', 'max temp': '36.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 22, 2023": "Weather on August 22, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '34.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 23, 2023": "Weather on August 23, 2023 - {'min temp': '16.1 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 24, 2023": "Weather on August 24, 2023 - {'min temp': '17.2 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 25, 2023": "Weather on August 25, 2023 - {'min temp': '14.4 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '13.7 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 26, 2023": "Weather on August 26, 2023 - {'min temp': '13.9 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 27, 2023": "Weather on August 27, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '5.6 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 28, 2023": "Weather on August 28, 2023 - {'min temp': '12.2 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '7.9 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on August 29, 2023": "Weather on August 29, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 30, 2023": "Weather on August 30, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 31, 2023": "Weather on August 31, 2023 - {'min temp': '13.9 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 01, 2023": "Weather on September 01, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 02, 2023": "Weather on September 02, 2023 - {'min temp': '16.7 degrees Celsius', 'max temp': '33.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on September 03, 2023": "Weather on September 03, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on September 04, 2023": "Weather on September 04, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on September 05, 2023": "Weather on September 05, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 06, 2023": "Weather on September 06, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 07, 2023": "Weather on September 07, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 08, 2023": "Weather on September 08, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 09, 2023": "Weather on September 09, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 10, 2023": "Weather on September 10, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '5.1 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 11, 2023": "Weather on September 11, 2023 - {'min temp': '11.1 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '8.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 12, 2023": "Weather on September 12, 2023 - {'min temp': '6.7 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 13, 2023": "Weather on September 13, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 14, 2023": "Weather on September 14, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '39.1 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on September 15, 2023": "Weather on September 15, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '5.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 16, 2023": "Weather on September 16, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '23.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 17, 2023": "Weather on September 17, 2023 - {'min temp': '6.7 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 18, 2023": "Weather on September 18, 2023 - {'min temp': '11.7 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 19, 2023": "Weather on September 19, 2023 - {'min temp': '15.6 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on September 20, 2023": "Weather on September 20, 2023 - {'min temp': '8.9 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 21, 2023": "Weather on September 21, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 22, 2023": "Weather on September 22, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 23, 2023": "Weather on September 23, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 24, 2023": "Weather on September 24, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 25, 2023": "Weather on September 25, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 26, 2023": "Weather on September 26, 2023 - {'min temp': '6.7 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 27, 2023": "Weather on September 27, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 28, 2023": "Weather on September 28, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 29, 2023": "Weather on September 29, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 30, 2023": "Weather on September 30, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 01, 2023": "Weather on October 01, 2023 - {'min temp': '12.8 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 02, 2023": "Weather on October 02, 2023 - {'min temp': '10.0 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on October 03, 2023": "Weather on October 03, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 04, 2023": "Weather on October 04, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 05, 2023": "Weather on October 05, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 06, 2023": "Weather on October 06, 2023 - {'min temp': '4.4 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 07, 2023": "Weather on October 07, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 08, 2023": "Weather on October 08, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 09, 2023": "Weather on October 09, 2023 - {'min temp': '4.4 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 10, 2023": "Weather on October 10, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 11, 2023": "Weather on October 11, 2023 - {'min temp': '8.3 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on October 12, 2023": "Weather on October 12, 2023 - {'min temp': '4.4 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 13, 2023": "Weather on October 13, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 14, 2023": "Weather on October 14, 2023 - {'min temp': '-1.7 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 15, 2023": "Weather on October 15, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 16, 2023": "Weather on October 16, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 17, 2023": "Weather on October 17, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 18, 2023": "Weather on October 18, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 19, 2023": "Weather on October 19, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 20, 2023": "Weather on October 20, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 21, 2023": "Weather on October 21, 2023 - {'min temp': '6.1 degrees Celsius', 'max temp': '26.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 22, 2023": "Weather on October 22, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 23, 2023": "Weather on October 23, 2023 - {'min temp': '4.4 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 24, 2023": "Weather on October 24, 2023 - {'min temp': '5.0 degrees Celsius', 'max temp': '20.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 25, 2023": "Weather on October 25, 2023 - {'min temp': '2.2 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 26, 2023": "Weather on October 26, 2023 - {'min temp': '2.8 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on October 27, 2023": "Weather on October 27, 2023 - {'min temp': '-2.8 degrees Celsius', 'max temp': '5.6 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on October 28, 2023": "Weather on October 28, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '0.0 degrees Celsius', 'rain': '1.3 mm', 'snowfall': '15.0 mm'}"
+    },
+    {
+        "Weather on October 29, 2023": "Weather on October 29, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '-3.9 degrees Celsius', 'rain': '13.5 mm', 'snowfall': '157.0 mm'}"
+    },
+    {
+        "Weather on October 30, 2023": "Weather on October 30, 2023 - {'min temp': '-12.8 degrees Celsius', 'max temp': '6.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on October 31, 2023": "Weather on October 31, 2023 - {'min temp': '-11.1 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 01, 2023": "Weather on November 01, 2023 - {'min temp': '-2.2 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 02, 2023": "Weather on November 02, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 03, 2023": "Weather on November 03, 2023 - {'min temp': '10.6 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 04, 2023": "Weather on November 04, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 05, 2023": "Weather on November 05, 2023 - {'min temp': '7.2 degrees Celsius', 'max temp': '25.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 06, 2023": "Weather on November 06, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 07, 2023": "Weather on November 07, 2023 - {'min temp': '7.8 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 08, 2023": "Weather on November 08, 2023 - {'min temp': '2.2 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 09, 2023": "Weather on November 09, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 10, 2023": "Weather on November 10, 2023 - {'min temp': '-6.1 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 11, 2023": "Weather on November 11, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 12, 2023": "Weather on November 12, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 13, 2023": "Weather on November 13, 2023 - {'min temp': '-2.8 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 14, 2023": "Weather on November 14, 2023 - {'min temp': '5.6 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 15, 2023": "Weather on November 15, 2023 - {'min temp': '2.8 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 16, 2023": "Weather on November 16, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 17, 2023": "Weather on November 17, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 18, 2023": "Weather on November 18, 2023 - {'min temp': '-1.1 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 19, 2023": "Weather on November 19, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 20, 2023": "Weather on November 20, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 21, 2023": "Weather on November 21, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 22, 2023": "Weather on November 22, 2023 - {'min temp': '3.9 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 23, 2023": "Weather on November 23, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 24, 2023": "Weather on November 24, 2023 - {'min temp': '-8.3 degrees Celsius', 'max temp': '2.8 degrees Celsius', 'rain': '5.3 mm', 'snowfall': '107.0 mm'}"
+    },
+    {
+        "Weather on November 25, 2023": "Weather on November 25, 2023 - {'min temp': '-11.1 degrees Celsius', 'max temp': '-4.4 degrees Celsius', 'rain': '4.3 mm', 'snowfall': '79.0 mm'}"
+    },
+    {
+        "Weather on November 26, 2023": "Weather on November 26, 2023 - {'min temp': '-11.1 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 27, 2023": "Weather on November 27, 2023 - {'min temp': '-9.4 degrees Celsius', 'max temp': '6.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 28, 2023": "Weather on November 28, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 29, 2023": "Weather on November 29, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on November 30, 2023": "Weather on November 30, 2023 - {'min temp': '-5.6 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 01, 2023": "Weather on December 01, 2023 - {'min temp': '-7.8 degrees Celsius', 'max temp': '3.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 02, 2023": "Weather on December 02, 2023 - {'min temp': '-6.7 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 03, 2023": "Weather on December 03, 2023 - {'min temp': '-0.6 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '13.0 mm', 'high or damaging winds': True}"
+    },
+    {
+        "Weather on December 04, 2023": "Weather on December 04, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 05, 2023": "Weather on December 05, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 06, 2023": "Weather on December 06, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 07, 2023": "Weather on December 07, 2023 - {'min temp': '2.8 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'high or damaging winds': True}"
+    },
+    {
+        "Weather on December 08, 2023": "Weather on December 08, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 09, 2023": "Weather on December 09, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '1.1 degrees Celsius', 'rain': '16.3 mm', 'snowfall': '191.0 mm'}"
+    },
+    {
+        "Weather on December 10, 2023": "Weather on December 10, 2023 - {'min temp': '-9.4 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 11, 2023": "Weather on December 11, 2023 - {'min temp': '-2.2 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 12, 2023": "Weather on December 12, 2023 - {'min temp': '-2.8 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 13, 2023": "Weather on December 13, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '1.1 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '3.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on December 14, 2023": "Weather on December 14, 2023 - {'min temp': '-2.2 degrees Celsius', 'max temp': '2.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '3.0 mm'}"
+    },
+    {
+        "Weather on December 15, 2023": "Weather on December 15, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 16, 2023": "Weather on December 16, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '17.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 17, 2023": "Weather on December 17, 2023 - {'min temp': '4.4 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 18, 2023": "Weather on December 18, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 19, 2023": "Weather on December 19, 2023 - {'min temp': '3.3 degrees Celsius', 'max temp': '17.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 20, 2023": "Weather on December 20, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 21, 2023": "Weather on December 21, 2023 - {'min temp': '1.7 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 22, 2023": "Weather on December 22, 2023 - {'min temp': '-1.7 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 23, 2023": "Weather on December 23, 2023 - {'min temp': '0.0 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 24, 2023": "Weather on December 24, 2023 - {'min temp': '-4.4 degrees Celsius', 'max temp': '6.1 degrees Celsius', 'rain': '3.3 mm', 'snowfall': '51.0 mm'}"
+    },
+    {
+        "Weather on December 25, 2023": "Weather on December 25, 2023 - {'min temp': '-12.8 degrees Celsius', 'max temp': '-1.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '3.0 mm'}"
+    },
+    {
+        "Weather on December 26, 2023": "Weather on December 26, 2023 - {'min temp': '-9.4 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 27, 2023": "Weather on December 27, 2023 - {'min temp': '1.1 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 28, 2023": "Weather on December 28, 2023 - {'min temp': '-7.2 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 29, 2023": "Weather on December 29, 2023 - {'min temp': '-3.9 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 30, 2023": "Weather on December 30, 2023 - {'min temp': '-3.3 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on December 31, 2023": "Weather on December 31, 2023 - {'min temp': '-5.0 degrees Celsius', 'max temp': '4.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 01, 2024": "Weather on January 01, 2024 - {'min temp': '-6.1 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 02, 2024": "Weather on January 02, 2024 - {'min temp': '-5.6 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 03, 2024": "Weather on January 03, 2024 - {'min temp': '-6.1 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 04, 2024": "Weather on January 04, 2024 - {'min temp': '-6.1 degrees Celsius', 'max temp': '1.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 05, 2024": "Weather on January 05, 2024 - {'min temp': '-6.7 degrees Celsius', 'max temp': '5.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 06, 2024": "Weather on January 06, 2024 - {'min temp': '-8.9 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 07, 2024": "Weather on January 07, 2024 - {'min temp': '-6.7 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 08, 2024": "Weather on January 08, 2024 - {'min temp': '-7.2 degrees Celsius', 'max temp': '1.1 degrees Celsius', 'rain': '2.5 mm', 'snowfall': '58.0 mm'}"
+    },
+    {
+        "Weather on January 09, 2024": "Weather on January 09, 2024 - {'min temp': '-11.7 degrees Celsius', 'max temp': '7.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 10, 2024": "Weather on January 10, 2024 - {'min temp': '-2.2 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 11, 2024": "Weather on January 11, 2024 - {'min temp': '-8.9 degrees Celsius', 'max temp': '0.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 12, 2024": "Weather on January 12, 2024 - {'min temp': '-15.0 degrees Celsius', 'max temp': '0.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 13, 2024": "Weather on January 13, 2024 - {'min temp': '-23.9 degrees Celsius', 'max temp': '-1.7 degrees Celsius', 'rain': '4.8 mm', 'snowfall': '69.0 mm'}"
+    },
+    {
+        "Weather on January 14, 2024": "Weather on January 14, 2024 - {'min temp': '-21.7 degrees Celsius', 'max temp': '-12.2 degrees Celsius', 'rain': '2.3 mm', 'snowfall': '25.0 mm'}"
+    },
+    {
+        "Weather on January 15, 2024": "Weather on January 15, 2024 - {'min temp': '-23.9 degrees Celsius', 'max temp': '-16.7 degrees Celsius', 'rain': '5.1 mm', 'snowfall': '86.0 mm'}"
+    },
+    {
+        "Weather on January 16, 2024": "Weather on January 16, 2024 - {'min temp': '-25.6 degrees Celsius', 'max temp': '2.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 17, 2024": "Weather on January 17, 2024 - {'min temp': '-5.6 degrees Celsius', 'max temp': '7.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 18, 2024": "Weather on January 18, 2024 - {'min temp': '-6.7 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 19, 2024": "Weather on January 19, 2024 - {'min temp': '-11.7 degrees Celsius', 'max temp': '0.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 20, 2024": "Weather on January 20, 2024 - {'min temp': '-8.9 degrees Celsius', 'max temp': '1.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 21, 2024": "Weather on January 21, 2024 - {'min temp': '-2.8 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 22, 2024": "Weather on January 22, 2024 - {'min temp': '-2.8 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 23, 2024": "Weather on January 23, 2024 - {'min temp': '-3.3 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 24, 2024": "Weather on January 24, 2024 - {'min temp': '-3.3 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 25, 2024": "Weather on January 25, 2024 - {'min temp': '-4.4 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 26, 2024": "Weather on January 26, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '6.7 degrees Celsius', 'rain': '3.0 mm', 'snowfall': '36.0 mm'}"
+    },
+    {
+        "Weather on January 27, 2024": "Weather on January 27, 2024 - {'min temp': '-4.4 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 28, 2024": "Weather on January 28, 2024 - {'min temp': '-2.2 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 29, 2024": "Weather on January 29, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 30, 2024": "Weather on January 30, 2024 - {'min temp': '-2.8 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on January 31, 2024": "Weather on January 31, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 01, 2024": "Weather on February 01, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '17.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 02, 2024": "Weather on February 02, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 03, 2024": "Weather on February 03, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '7.2 degrees Celsius', 'rain': '40.1 mm', 'snowfall': '216.0 mm'}"
+    },
+    {
+        "Weather on February 04, 2024": "Weather on February 04, 2024 - {'min temp': '-5.6 degrees Celsius', 'max temp': '6.1 degrees Celsius', 'rain': '4.1 mm', 'snowfall': '15.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on February 05, 2024": "Weather on February 05, 2024 - {'min temp': '-6.7 degrees Celsius', 'max temp': '6.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 06, 2024": "Weather on February 06, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 07, 2024": "Weather on February 07, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 08, 2024": "Weather on February 08, 2024 - {'min temp': '0.0 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 09, 2024": "Weather on February 09, 2024 - {'min temp': '-5.0 degrees Celsius', 'max temp': '5.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 10, 2024": "Weather on February 10, 2024 - {'min temp': '-2.2 degrees Celsius', 'max temp': '0.6 degrees Celsius', 'rain': '2.3 mm', 'snowfall': '38.0 mm'}"
+    },
+    {
+        "Weather on February 11, 2024": "Weather on February 11, 2024 - {'min temp': '-10.6 degrees Celsius', 'max temp': '2.2 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '18.0 mm'}"
+    },
+    {
+        "Weather on February 12, 2024": "Weather on February 12, 2024 - {'min temp': '-6.1 degrees Celsius', 'max temp': '10.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 13, 2024": "Weather on February 13, 2024 - {'min temp': '-3.3 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 14, 2024": "Weather on February 14, 2024 - {'min temp': '-4.4 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 15, 2024": "Weather on February 15, 2024 - {'min temp': '-3.9 degrees Celsius', 'max temp': '9.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 16, 2024": "Weather on February 16, 2024 - {'min temp': '-5.0 degrees Celsius', 'max temp': '3.9 degrees Celsius', 'rain': '5.1 mm', 'snowfall': '61.0 mm'}"
+    },
+    {
+        "Weather on February 17, 2024": "Weather on February 17, 2024 - {'min temp': '-15.0 degrees Celsius', 'max temp': '1.7 degrees Celsius', 'rain': '5.6 mm', 'snowfall': '102.0 mm'}"
+    },
+    {
+        "Weather on February 18, 2024": "Weather on February 18, 2024 - {'min temp': '-11.1 degrees Celsius', 'max temp': '7.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 19, 2024": "Weather on February 19, 2024 - {'min temp': '2.8 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 20, 2024": "Weather on February 20, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 21, 2024": "Weather on February 21, 2024 - {'min temp': '3.9 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 22, 2024": "Weather on February 22, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 23, 2024": "Weather on February 23, 2024 - {'min temp': '-2.2 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 24, 2024": "Weather on February 24, 2024 - {'min temp': '-3.3 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 25, 2024": "Weather on February 25, 2024 - {'min temp': '7.2 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 26, 2024": "Weather on February 26, 2024 - {'min temp': '4.4 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 27, 2024": "Weather on February 27, 2024 - {'min temp': '-3.9 degrees Celsius', 'max temp': '12.8 degrees Celsius', 'rain': '3.8 mm', 'snowfall': '38.0 mm'}"
+    },
+    {
+        "Weather on February 28, 2024": "Weather on February 28, 2024 - {'min temp': '-7.8 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on February 29, 2024": "Weather on February 29, 2024 - {'min temp': '-3.9 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 01, 2024": "Weather on March 01, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 02, 2024": "Weather on March 02, 2024 - {'min temp': '1.1 degrees Celsius', 'max temp': '20.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 03, 2024": "Weather on March 03, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 04, 2024": "Weather on March 04, 2024 - {'min temp': '-5.6 degrees Celsius', 'max temp': '8.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 05, 2024": "Weather on March 05, 2024 - {'min temp': '-6.1 degrees Celsius', 'max temp': '8.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 06, 2024": "Weather on March 06, 2024 - {'min temp': '-4.4 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 07, 2024": "Weather on March 07, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 08, 2024": "Weather on March 08, 2024 - {'min temp': '-3.3 degrees Celsius', 'max temp': '1.1 degrees Celsius', 'rain': '5.6 mm', 'snowfall': '41.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on March 09, 2024": "Weather on March 09, 2024 - {'min temp': '-7.2 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 10, 2024": "Weather on March 10, 2024 - {'min temp': '-3.3 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 11, 2024": "Weather on March 11, 2024 - {'min temp': '2.8 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 12, 2024": "Weather on March 12, 2024 - {'min temp': '1.1 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 13, 2024": "Weather on March 13, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 14, 2024": "Weather on March 14, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '6.1 degrees Celsius', 'rain': '59.2 mm', 'snowfall': '376.0 mm'}"
+    },
+    {
+        "Weather on March 15, 2024": "Weather on March 15, 2024 - {'min temp': '-1.1 degrees Celsius', 'max temp': '8.3 degrees Celsius', 'rain': '16.8 mm', 'snowfall': '180.0 mm'}"
+    },
+    {
+        "Weather on March 16, 2024": "Weather on March 16, 2024 - {'min temp': '-2.2 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 17, 2024": "Weather on March 17, 2024 - {'min temp': '0.0 degrees Celsius', 'max temp': '8.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 18, 2024": "Weather on March 18, 2024 - {'min temp': '-2.8 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 19, 2024": "Weather on March 19, 2024 - {'min temp': '0.0 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 20, 2024": "Weather on March 20, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 21, 2024": "Weather on March 21, 2024 - {'min temp': '0.0 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 22, 2024": "Weather on March 22, 2024 - {'min temp': '-1.1 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 23, 2024": "Weather on March 23, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 24, 2024": "Weather on March 24, 2024 - {'min temp': '-1.1 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '1.5 mm', 'snowfall': '8.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on March 25, 2024": "Weather on March 25, 2024 - {'min temp': '-8.9 degrees Celsius', 'max temp': '1.1 degrees Celsius', 'rain': '12.7 mm', 'snowfall': '147.0 mm'}"
+    },
+    {
+        "Weather on March 26, 2024": "Weather on March 26, 2024 - {'min temp': '-8.3 degrees Celsius', 'max temp': '3.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 27, 2024": "Weather on March 27, 2024 - {'min temp': '-4.4 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 28, 2024": "Weather on March 28, 2024 - {'min temp': '-1.1 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 29, 2024": "Weather on March 29, 2024 - {'min temp': '1.1 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on March 30, 2024": "Weather on March 30, 2024 - {'min temp': '3.3 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on March 31, 2024": "Weather on March 31, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '12.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 01, 2024": "Weather on April 01, 2024 - {'min temp': '2.2 degrees Celsius', 'max temp': '11.1 degrees Celsius', 'rain': '11.2 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on April 02, 2024": "Weather on April 02, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '6.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 03, 2024": "Weather on April 03, 2024 - {'min temp': '4.4 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 04, 2024": "Weather on April 04, 2024 - {'min temp': '3.3 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 05, 2024": "Weather on April 05, 2024 - {'min temp': '4.4 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 06, 2024": "Weather on April 06, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'high or damaging winds': True}"
+    },
+    {
+        "Weather on April 07, 2024": "Weather on April 07, 2024 - {'min temp': '2.8 degrees Celsius', 'max temp': '12.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'high or damaging winds': True}"
+    },
+    {
+        "Weather on April 08, 2024": "Weather on April 08, 2024 - {'min temp': '-1.1 degrees Celsius', 'max temp': '14.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 09, 2024": "Weather on April 09, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 10, 2024": "Weather on April 10, 2024 - {'min temp': '1.1 degrees Celsius', 'max temp': '16.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 11, 2024": "Weather on April 11, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 12, 2024": "Weather on April 12, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 13, 2024": "Weather on April 13, 2024 - {'min temp': '8.3 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 14, 2024": "Weather on April 14, 2024 - {'min temp': '6.1 degrees Celsius', 'max temp': '26.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 15, 2024": "Weather on April 15, 2024 - {'min temp': '5.6 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 16, 2024": "Weather on April 16, 2024 - {'min temp': '5.6 degrees Celsius', 'max temp': '19.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on April 17, 2024": "Weather on April 17, 2024 - {'min temp': '8.3 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 18, 2024": "Weather on April 18, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '10.2 mm', 'snowfall': '8.0 mm'}"
+    },
+    {
+        "Weather on April 19, 2024": "Weather on April 19, 2024 - {'min temp': '-0.6 degrees Celsius', 'max temp': '3.3 degrees Celsius', 'rain': '14.0 mm', 'snowfall': '89.0 mm'}"
+    },
+    {
+        "Weather on April 20, 2024": "Weather on April 20, 2024 - {'min temp': '-1.7 degrees Celsius', 'max temp': '2.2 degrees Celsius', 'rain': '11.9 mm', 'snowfall': '135.0 mm', 'fog': True}"
+    },
+    {
+        "Weather on April 21, 2024": "Weather on April 21, 2024 - {'min temp': '-3.9 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 22, 2024": "Weather on April 22, 2024 - {'min temp': '5.0 degrees Celsius', 'max temp': '23.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 23, 2024": "Weather on April 23, 2024 - {'min temp': '5.6 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 24, 2024": "Weather on April 24, 2024 - {'min temp': '2.8 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 25, 2024": "Weather on April 25, 2024 - {'min temp': '4.4 degrees Celsius', 'max temp': '20.0 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on April 26, 2024": "Weather on April 26, 2024 - {'min temp': '7.2 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on April 27, 2024": "Weather on April 27, 2024 - {'min temp': '0.0 degrees Celsius', 'max temp': '10.0 degrees Celsius', 'rain': '49.0 mm', 'snowfall': '15.0 mm'}"
+    },
+    {
+        "Weather on April 28, 2024": "Weather on April 28, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '5.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 29, 2024": "Weather on April 29, 2024 - {'min temp': '3.9 degrees Celsius', 'max temp': '20.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on April 30, 2024": "Weather on April 30, 2024 - {'min temp': '6.1 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '1.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 01, 2024": "Weather on May 01, 2024 - {'min temp': '4.4 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 02, 2024": "Weather on May 02, 2024 - {'min temp': '1.1 degrees Celsius', 'max temp': '15.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 03, 2024": "Weather on May 03, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 04, 2024": "Weather on May 04, 2024 - {'min temp': '2.8 degrees Celsius', 'max temp': '17.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 05, 2024": "Weather on May 05, 2024 - {'min temp': '2.2 degrees Celsius', 'max temp': '21.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 06, 2024": "Weather on May 06, 2024 - {'min temp': '7.8 degrees Celsius', 'max temp': '20.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'high or damaging winds': True}"
+    },
+    {
+        "Weather on May 07, 2024": "Weather on May 07, 2024 - {'min temp': '6.7 degrees Celsius', 'max temp': '11.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 08, 2024": "Weather on May 08, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '15.0 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 09, 2024": "Weather on May 09, 2024 - {'min temp': '5.0 degrees Celsius', 'max temp': '13.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 10, 2024": "Weather on May 10, 2024 - {'min temp': '5.0 degrees Celsius', 'max temp': '13.3 degrees Celsius', 'rain': '3.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 11, 2024": "Weather on May 11, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 12, 2024": "Weather on May 12, 2024 - {'min temp': '8.3 degrees Celsius', 'max temp': '17.8 degrees Celsius', 'rain': '4.1 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 13, 2024": "Weather on May 13, 2024 - {'min temp': '5.0 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 14, 2024": "Weather on May 14, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 15, 2024": "Weather on May 15, 2024 - {'min temp': '5.6 degrees Celsius', 'max temp': '21.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 16, 2024": "Weather on May 16, 2024 - {'min temp': '6.1 degrees Celsius', 'max temp': '23.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 17, 2024": "Weather on May 17, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 18, 2024": "Weather on May 18, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '23.9 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 19, 2024": "Weather on May 19, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 20, 2024": "Weather on May 20, 2024 - {'min temp': '6.1 degrees Celsius', 'max temp': '18.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 21, 2024": "Weather on May 21, 2024 - {'min temp': '5.0 degrees Celsius', 'max temp': '16.1 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 22, 2024": "Weather on May 22, 2024 - {'min temp': '0.6 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 23, 2024": "Weather on May 23, 2024 - {'min temp': '1.7 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'high or damaging winds': True}"
+    },
+    {
+        "Weather on May 24, 2024": "Weather on May 24, 2024 - {'min temp': '1.1 degrees Celsius', 'max temp': '22.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 25, 2024": "Weather on May 25, 2024 - {'min temp': '5.0 degrees Celsius', 'max temp': '23.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 26, 2024": "Weather on May 26, 2024 - {'min temp': '6.7 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 27, 2024": "Weather on May 27, 2024 - {'min temp': '7.8 degrees Celsius', 'max temp': '25.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on May 28, 2024": "Weather on May 28, 2024 - {'min temp': '6.7 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 29, 2024": "Weather on May 29, 2024 - {'min temp': '6.7 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 30, 2024": "Weather on May 30, 2024 - {'min temp': '9.4 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on May 31, 2024": "Weather on May 31, 2024 - {'min temp': '10.6 degrees Celsius', 'max temp': '22.8 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 01, 2024": "Weather on June 01, 2024 - {'min temp': '7.8 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 02, 2024": "Weather on June 02, 2024 - {'min temp': '8.9 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 03, 2024": "Weather on June 03, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 04, 2024": "Weather on June 04, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 05, 2024": "Weather on June 05, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 06, 2024": "Weather on June 06, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 07, 2024": "Weather on June 07, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 08, 2024": "Weather on June 08, 2024 - {'min temp': '15.6 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 09, 2024": "Weather on June 09, 2024 - {'min temp': '10.6 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '1.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 10, 2024": "Weather on June 10, 2024 - {'min temp': '11.1 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '1.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 11, 2024": "Weather on June 11, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 12, 2024": "Weather on June 12, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '34.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 13, 2024": "Weather on June 13, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '37.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 14, 2024": "Weather on June 14, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 15, 2024": "Weather on June 15, 2024 - {'min temp': '12.2 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 16, 2024": "Weather on June 16, 2024 - {'min temp': '12.2 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 17, 2024": "Weather on June 17, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 18, 2024": "Weather on June 18, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 19, 2024": "Weather on June 19, 2024 - {'min temp': '7.8 degrees Celsius', 'max temp': '24.4 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 20, 2024": "Weather on June 20, 2024 - {'min temp': '11.1 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 21, 2024": "Weather on June 21, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 22, 2024": "Weather on June 22, 2024 - {'min temp': '11.1 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 23, 2024": "Weather on June 23, 2024 - {'min temp': '13.9 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 24, 2024": "Weather on June 24, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 25, 2024": "Weather on June 25, 2024 - {'min temp': '16.7 degrees Celsius', 'max temp': '36.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 26, 2024": "Weather on June 26, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on June 27, 2024": "Weather on June 27, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '33.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 28, 2024": "Weather on June 28, 2024 - {'min temp': '21.7 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 29, 2024": "Weather on June 29, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on June 30, 2024": "Weather on June 30, 2024 - {'min temp': '12.8 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 01, 2024": "Weather on July 01, 2024 - {'min temp': '17.8 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 02, 2024": "Weather on July 02, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.5 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 03, 2024": "Weather on July 03, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 04, 2024": "Weather on July 04, 2024 - {'min temp': '8.9 degrees Celsius', 'max temp': '28.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 05, 2024": "Weather on July 05, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 06, 2024": "Weather on July 06, 2024 - {'min temp': '12.2 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 07, 2024": "Weather on July 07, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 08, 2024": "Weather on July 08, 2024 - {'min temp': '8.3 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 09, 2024": "Weather on July 09, 2024 - {'min temp': '11.1 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 10, 2024": "Weather on July 10, 2024 - {'min temp': '12.8 degrees Celsius', 'max temp': '33.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 11, 2024": "Weather on July 11, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 12, 2024": "Weather on July 12, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '37.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 13, 2024": "Weather on July 13, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '36.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 14, 2024": "Weather on July 14, 2024 - {'min temp': '17.8 degrees Celsius', 'max temp': '36.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 15, 2024": "Weather on July 15, 2024 - {'min temp': '19.4 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 16, 2024": "Weather on July 16, 2024 - {'min temp': '15.6 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 17, 2024": "Weather on July 17, 2024 - {'min temp': '13.9 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 18, 2024": "Weather on July 18, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 19, 2024": "Weather on July 19, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '1.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 20, 2024": "Weather on July 20, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 21, 2024": "Weather on July 21, 2024 - {'min temp': '13.9 degrees Celsius', 'max temp': '26.1 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 22, 2024": "Weather on July 22, 2024 - {'min temp': '11.1 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 23, 2024": "Weather on July 23, 2024 - {'min temp': '11.1 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 24, 2024": "Weather on July 24, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '34.4 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 25, 2024": "Weather on July 25, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 26, 2024": "Weather on July 26, 2024 - {'min temp': '17.8 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 27, 2024": "Weather on July 27, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '32.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm', 'thunder': True}"
+    },
+    {
+        "Weather on July 28, 2024": "Weather on July 28, 2024 - {'min temp': '12.8 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 29, 2024": "Weather on July 29, 2024 - {'min temp': '13.9 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 30, 2024": "Weather on July 30, 2024 - {'min temp': '17.2 degrees Celsius', 'max temp': '37.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on July 31, 2024": "Weather on July 31, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 01, 2024": "Weather on August 01, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 02, 2024": "Weather on August 02, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 03, 2024": "Weather on August 03, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '36.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 04, 2024": "Weather on August 04, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '35.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 05, 2024": "Weather on August 05, 2024 - {'min temp': '18.3 degrees Celsius', 'max temp': '33.3 degrees Celsius', 'rain': '1.5 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 06, 2024": "Weather on August 06, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '34.4 degrees Celsius', 'rain': '2.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 07, 2024": "Weather on August 07, 2024 - {'min temp': '15.6 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 08, 2024": "Weather on August 08, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '26.7 degrees Celsius', 'rain': '11.9 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 09, 2024": "Weather on August 09, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '18.3 degrees Celsius', 'rain': '3.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 10, 2024": "Weather on August 10, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '27.2 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 11, 2024": "Weather on August 11, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 12, 2024": "Weather on August 12, 2024 - {'min temp': '14.4 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 13, 2024": "Weather on August 13, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '7.6 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 14, 2024": "Weather on August 14, 2024 - {'min temp': '12.8 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 15, 2024": "Weather on August 15, 2024 - {'min temp': '13.9 degrees Celsius', 'max temp': '29.4 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 16, 2024": "Weather on August 16, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 17, 2024": "Weather on August 17, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 18, 2024": "Weather on August 18, 2024 - {'min temp': '18.3 degrees Celsius', 'max temp': '35.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 19, 2024": "Weather on August 19, 2024 - {'min temp': '16.7 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '16.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 20, 2024": "Weather on August 20, 2024 - {'min temp': '13.9 degrees Celsius', 'max temp': '33.9 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 21, 2024": "Weather on August 21, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '33.3 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 22, 2024": "Weather on August 22, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.3 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 23, 2024": "Weather on August 23, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '28.9 degrees Celsius', 'rain': '2.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 24, 2024": "Weather on August 24, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '1.8 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 25, 2024": "Weather on August 25, 2024 - {'min temp': '16.1 degrees Celsius', 'max temp': '31.7 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 26, 2024": "Weather on August 26, 2024 - {'min temp': '13.3 degrees Celsius', 'max temp': '27.8 degrees Celsius', 'rain': '7.4 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 27, 2024": "Weather on August 27, 2024 - {'min temp': '10.6 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 28, 2024": "Weather on August 28, 2024 - {'min temp': '11.7 degrees Celsius', 'max temp': '32.8 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 29, 2024": "Weather on August 29, 2024 - {'min temp': '15.0 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 30, 2024": "Weather on August 30, 2024 - {'min temp': '10.6 degrees Celsius', 'max temp': '30.0 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on August 31, 2024": "Weather on August 31, 2024 - {'min temp': '10.6 degrees Celsius', 'max temp': '31.1 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Weather on September 01, 2024": "Weather on September 01, 2024 - {'min temp': '10.0 degrees Celsius', 'max temp': '30.6 degrees Celsius', 'rain': '0.0 mm', 'snowfall': '0.0 mm'}"
+    },
+    {
+        "Month temp average for January, 2023": "Month temp average for January, 2023 = -0.22 degrees Celsius"
+    },
+    {
+        "Month temp average for February, 2023": "Month temp average for February, 2023 = 3.36 degrees Celsius"
+    },
+    {
+        "Month temp average for March, 2023": "Month temp average for March, 2023 = 5.66 degrees Celsius"
+    },
+    {
+        "Month temp average for April, 2023": "Month temp average for April, 2023 = 12.69 degrees Celsius"
+    },
+    {
+        "Month temp average for May, 2023": "Month temp average for May, 2023 = 18.4 degrees Celsius"
+    },
+    {
+        "Month temp average for June, 2023": "Month temp average for June, 2023 = 20.88 degrees Celsius"
+    },
+    {
+        "Month temp average for July, 2023": "Month temp average for July, 2023 = 26.73 degrees Celsius"
+    },
+    {
+        "Month temp average for August, 2023": "Month temp average for August, 2023 = 24.93 degrees Celsius"
+    },
+    {
+        "Month temp average for September, 2023": "Month temp average for September, 2023 = 21.78 degrees Celsius"
+    },
+    {
+        "Month temp average for October, 2023": "Month temp average for October, 2023 = 12.67 degrees Celsius"
+    },
+    {
+        "Month temp average for November, 2023": "Month temp average for November, 2023 = 6.56 degrees Celsius"
+    },
+    {
+        "Month temp average for December, 2023": "Month temp average for December, 2023 = 3.38 degrees Celsius"
+    },
+    {
+        "Month temp average for January, 2024": "Month temp average for January, 2024 = 0.03 degrees Celsius"
+    },
+    {
+        "Month temp average for February, 2024": "Month temp average for February, 2024 = 5.54 degrees Celsius"
+    },
+    {
+        "Month temp average for March, 2024": "Month temp average for March, 2024 = 8.36 degrees Celsius"
+    },
+    {
+        "Month temp average for April, 2024": "Month temp average for April, 2024 = 12.96 degrees Celsius"
+    },
+    {
+        "Month temp average for May, 2024": "Month temp average for May, 2024 = 16.83 degrees Celsius"
+    },
+    {
+        "Month temp average for June, 2024": "Month temp average for June, 2024 = 26.0 degrees Celsius"
+    },
+    {
+        "Month temp average for July, 2024": "Month temp average for July, 2024 = 27.83 degrees Celsius"
+    },
+    {
+        "Month temp average for August, 2024": "Month temp average for August, 2024 = 25.81 degrees Celsius"
+    },
+    {
+        "Month temp average for September, 2024": "Month temp average for September, 2024 = 27.2 degrees Celsius"
+    },
+    {
+        "Month rain average for January, 2023": "Month rain average for January, 2023 = 0.72 mm"
+    },
+    {
+        "Month rain average for February, 2023": "Month rain average for February, 2023 = 0.83 mm"
+    },
+    {
+        "Month rain average for March, 2023": "Month rain average for March, 2023 = 0.37 mm"
+    },
+    {
+        "Month rain average for April, 2023": "Month rain average for April, 2023 = 1.92 mm"
+    },
+    {
+        "Month rain average for May, 2023": "Month rain average for May, 2023 = 4.52 mm"
+    },
+    {
+        "Month rain average for June, 2023": "Month rain average for June, 2023 = 4.27 mm"
+    },
+    {
+        "Month rain average for July, 2023": "Month rain average for July, 2023 = 1.19 mm"
+    },
+    {
+        "Month rain average for August, 2023": "Month rain average for August, 2023 = 1.74 mm"
+    },
+    {
+        "Month rain average for September, 2023": "Month rain average for September, 2023 = 1.96 mm"
+    },
+    {
+        "Month rain average for October, 2023": "Month rain average for October, 2023 = 0.52 mm"
+    },
+    {
+        "Month rain average for November, 2023": "Month rain average for November, 2023 = 0.41 mm"
+    },
+    {
+        "Month rain average for December, 2023": "Month rain average for December, 2023 = 0.68 mm"
+    },
+    {
+        "Month rain average for January, 2024": "Month rain average for January, 2024 = 0.57 mm"
+    },
+    {
+        "Month rain average for February, 2024": "Month rain average for February, 2024 = 2.16 mm"
+    },
+    {
+        "Month rain average for March, 2024": "Month rain average for March, 2024 = 3.22 mm"
+    },
+    {
+        "Month rain average for April, 2024": "Month rain average for April, 2024 = 3.77 mm"
+    },
+    {
+        "Month rain average for May, 2024": "Month rain average for May, 2024 = 0.36 mm"
+    },
+    {
+        "Month rain average for June, 2024": "Month rain average for June, 2024 = 0.24 mm"
+    },
+    {
+        "Month rain average for July, 2024": "Month rain average for July, 2024 = 0.22 mm"
+    },
+    {
+        "Month rain average for August, 2024": "Month rain average for August, 2024 = 1.82 mm"
+    },
+    {
+        "Month rain average for September, 2024": "Month rain average for September, 2024 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for January, 2023": "Month snowfall average for January, 2023 = 7.65 mm"
+    },
+    {
+        "Month snowfall average for February, 2023": "Month snowfall average for February, 2023 = 15.68 mm"
+    },
+    {
+        "Month snowfall average for March, 2023": "Month snowfall average for March, 2023 = 3.55 mm"
+    },
+    {
+        "Month snowfall average for April, 2023": "Month snowfall average for April, 2023 = 8.4 mm"
+    },
+    {
+        "Month snowfall average for May, 2023": "Month snowfall average for May, 2023 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for June, 2023": "Month snowfall average for June, 2023 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for July, 2023": "Month snowfall average for July, 2023 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for August, 2023": "Month snowfall average for August, 2023 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for September, 2023": "Month snowfall average for September, 2023 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for October, 2023": "Month snowfall average for October, 2023 = 5.55 mm"
+    },
+    {
+        "Month snowfall average for November, 2023": "Month snowfall average for November, 2023 = 6.2 mm"
+    },
+    {
+        "Month snowfall average for December, 2023": "Month snowfall average for December, 2023 = 8.52 mm"
+    },
+    {
+        "Month snowfall average for January, 2024": "Month snowfall average for January, 2024 = 8.84 mm"
+    },
+    {
+        "Month snowfall average for February, 2024": "Month snowfall average for February, 2024 = 16.83 mm"
+    },
+    {
+        "Month snowfall average for March, 2024": "Month snowfall average for March, 2024 = 24.26 mm"
+    },
+    {
+        "Month snowfall average for April, 2024": "Month snowfall average for April, 2024 = 8.23 mm"
+    },
+    {
+        "Month snowfall average for May, 2024": "Month snowfall average for May, 2024 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for June, 2024": "Month snowfall average for June, 2024 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for July, 2024": "Month snowfall average for July, 2024 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for August, 2024": "Month snowfall average for August, 2024 = 0.0 mm"
+    },
+    {
+        "Month snowfall average for September, 2024": "Month snowfall average for September, 2024 = 0.0 mm"
+    },
+    {
+        "Number of rainy days January, 2023": "Number of rainy days January, 2023 = 7"
+    },
+    {
+        "Number of rainy days February, 2023": "Number of rainy days February, 2023 = 4"
+    },
+    {
+        "Number of rainy days March, 2023": "Number of rainy days March, 2023 = 7"
+    },
+    {
+        "Number of rainy days April, 2023": "Number of rainy days April, 2023 = 8"
+    },
+    {
+        "Number of rainy days May, 2023": "Number of rainy days May, 2023 = 15"
+    },
+    {
+        "Number of rainy days June, 2023": "Number of rainy days June, 2023 = 17"
+    },
+    {
+        "Number of rainy days July, 2023": "Number of rainy days July, 2023 = 10"
+    },
+    {
+        "Number of rainy days August, 2023": "Number of rainy days August, 2023 = 11"
+    },
+    {
+        "Number of rainy days September, 2023": "Number of rainy days September, 2023 = 5"
+    },
+    {
+        "Number of rainy days October, 2023": "Number of rainy days October, 2023 = 5"
+    },
+    {
+        "Number of rainy days November, 2023": "Number of rainy days November, 2023 = 4"
+    },
+    {
+        "Number of rainy days December, 2023": "Number of rainy days December, 2023 = 5"
+    },
+    {
+        "Number of rainy days January, 2024": "Number of rainy days January, 2024 = 5"
+    },
+    {
+        "Number of rainy days February, 2024": "Number of rainy days February, 2024 = 8"
+    },
+    {
+        "Number of rainy days March, 2024": "Number of rainy days March, 2024 = 9"
+    },
+    {
+        "Number of rainy days April, 2024": "Number of rainy days April, 2024 = 10"
+    },
+    {
+        "Number of rainy days May, 2024": "Number of rainy days May, 2024 = 7"
+    },
+    {
+        "Number of rainy days June, 2024": "Number of rainy days June, 2024 = 9"
+    },
+    {
+        "Number of rainy days July, 2024": "Number of rainy days July, 2024 = 7"
+    },
+    {
+        "Number of rainy days August, 2024": "Number of rainy days August, 2024 = 12"
+    },
+    {
+        "Number of rainy days September, 2024": "Number of rainy days September, 2024 = 0"
+    },
+    {
+        "Number of snowy days January, 2023": "Number of snowy days January, 2023 = 7"
+    },
+    {
+        "Number of snowy days February, 2023": "Number of snowy days February, 2023 = 4"
+    },
+    {
+        "Number of snowy days March, 2023": "Number of snowy days March, 2023 = 6"
+    },
+    {
+        "Number of snowy days April, 2023": "Number of snowy days April, 2023 = 5"
+    },
+    {
+        "Number of snowy days May, 2023": "Number of snowy days May, 2023 = 0"
+    },
+    {
+        "Number of snowy days June, 2023": "Number of snowy days June, 2023 = 0"
+    },
+    {
+        "Number of snowy days July, 2023": "Number of snowy days July, 2023 = 0"
+    },
+    {
+        "Number of snowy days August, 2023": "Number of snowy days August, 2023 = 0"
+    },
+    {
+        "Number of snowy days September, 2023": "Number of snowy days September, 2023 = 0"
+    },
+    {
+        "Number of snowy days October, 2023": "Number of snowy days October, 2023 = 2"
+    },
+    {
+        "Number of snowy days November, 2023": "Number of snowy days November, 2023 = 2"
+    },
+    {
+        "Number of snowy days December, 2023": "Number of snowy days December, 2023 = 6"
+    },
+    {
+        "Number of snowy days January, 2024": "Number of snowy days January, 2024 = 5"
+    },
+    {
+        "Number of snowy days February, 2024": "Number of snowy days February, 2024 = 7"
+    },
+    {
+        "Number of snowy days March, 2024": "Number of snowy days March, 2024 = 5"
+    },
+    {
+        "Number of snowy days April, 2024": "Number of snowy days April, 2024 = 4"
+    },
+    {
+        "Number of snowy days May, 2024": "Number of snowy days May, 2024 = 0"
+    },
+    {
+        "Number of snowy days June, 2024": "Number of snowy days June, 2024 = 0"
+    },
+    {
+        "Number of snowy days July, 2024": "Number of snowy days July, 2024 = 0"
+    },
+    {
+        "Number of snowy days August, 2024": "Number of snowy days August, 2024 = 0"
+    },
+    {
+        "Number of snowy days September, 2024": "Number of snowy days September, 2024 = 0"
+    },
+    {
+        "Number of rainy days in 2023": "Number of rainy days in 2023 = 98"
+    },
+    {
+        "Number of snowy days in 2023": "Number of snowy days in 2023 = 32"
+    },
+    {
+        "Average rain in the year 2023": "Average rain in the year 2023 = 1.6 mm"
+    },
+    {
+        "Average snowfall in the year 2023": "Average snowfall in the year 2023 = 4.55 mm"
+    },
+    {
+        "Average temperature in the year 2023": "Average temperature in the year 2023 = 13.17 degrees Celsius"
+    },
+    {
+        "Number of rainy days in 2024": "Number of rainy days in 2024 = 67"
+    },
+    {
+        "Number of snowy days in 2024": "Number of snowy days in 2024 = 21"
+    },
+    {
+        "Average rain in the year 2024": "Average rain in the year 2024 = 1.53 mm"
+    },
+    {
+        "Average snowfall in the year 2024": "Average snowfall in the year 2024 = 7.19 mm"
+    },
+    {
+        "Average temperature in the year 2024": "Average temperature in the year 2024 = 15.58 degrees Celsius"
+    }
+]

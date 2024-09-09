@@ -1,0 +1,10 @@
+version: "2"
+authtoken: 2lbUSiR4CPIP3qxC1IBxftPuKDO_38yWHyUo12uyJiKLMoMQz
+
+log: stdout
+
+tunnels:
+  weather-app:
+    proto: http
+    addr: app:5000
+    inspect: false
